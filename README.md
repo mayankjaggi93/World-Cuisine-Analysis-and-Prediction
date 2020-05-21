@@ -5,4 +5,4 @@ and support vector classifier algorithm are used for prediction. The relationshi
 of cuisines and common ingredients used is determined. A recommender system is developed, recommending a
 cuisine to the user based on his/her ingredient preference.
 
-The Details of the project can be seen in the attached report.
+The details of the project can be seen in the attached report.
